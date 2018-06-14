@@ -10,3 +10,5 @@ De esta forma tenemos un sistema de grid primitivo que nos permite elegir la zon
 
 El ejemplo de esta pequeña app. Emplea la clase tablero y el evento onclick() para mandar a turtle a dibujar cuadros en las coordenadas indicadas.
 
+Pickel
+Se emplea el módulo pickel para serializar la lista de coordenadas y así tener una carga y guardado básico de nuestros dibujos.
